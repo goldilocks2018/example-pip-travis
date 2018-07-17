@@ -38,7 +38,7 @@ setup(
                         "python-docx==0.8.5", "python-fedora==0.8.0", "python-glanceclient==0.7.0", "python-gnupg==0.3.5",
                         "python-jose==1.3.1", "python-keystoneclient==1.7.0", "python-muranoclient==0.7.2", "pywbem==0.7.0",
                         "PyWebDAV==0.9.3", "pyxdg==0.25", "Radicale==1.0.1", "requests==2.4.1", "restkit==2.1.0",
-                        "salt==0.10.3", "Sanic==0.5.0", "Scrapy==0.24.6", "setuptools==0.6c9", "sleekxmpp==1.3.1", 
+                        "salt==0.10.3", "Sanic==0.5.0", "Scrapy==0.24.6", "sleekxmpp==1.3.1", 
                         "SOAPpy==0.12.5", "sosreport==3.2", "supervisor==3.1.2", "swauth==1.2.0", "swift==1.0.2", "tablib==0.11.4",
                         "textract==1.4.0", "tlslite==0.4.9", "tornado==1.2", "tqdm==4.4.1", "tripleo-heat-templates==0.6.4",
                         "tryton==3.8.7", "trytond==3.4.7", "tweepy==1.4", "txAWS==0.2.3.1", "urllib3==1.18",
