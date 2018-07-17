@@ -3,10 +3,11 @@ notifications:
   email: false
 python:
   - 2.7
-  #- 3.4
+  - 3.4
 install:
   - pip install -U setuptools
   - pip install -U pip
+  - pip install -U pathlib
   - python setup.py install
 script:
   - echo "no scripts"
