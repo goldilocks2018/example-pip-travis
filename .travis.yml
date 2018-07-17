@@ -2,13 +2,13 @@ language: python
 notifications:
   email: false
 python:
-  - 2.7
-  #- 3.5
+  #- 2.7
+  - 3.5
 install:
-  - python2.7 -m pip install -U setuptools
-  - python2.7 -m pip install -U pip
-  - python2.7 -m pip install -U pathlib
-  - python2.7 setup.py install
+  - python3.5 -m pip install -U setuptools
+  - python3.5 -m pip install -U pip
+  - python3.5 -m pip install -U pathlib
+  - python3.5 setup.py install
 script:
   - echo "no scripts"
 after_success:
