@@ -45,3 +45,4 @@ def main():
         print (e)
         pass
     print ("Hello arguments: " + ', '.join(argv[1:]))
+main()
