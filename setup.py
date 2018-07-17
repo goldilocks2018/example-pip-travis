@@ -31,7 +31,7 @@ setup(
                         "Kallithea==0.3.1", "keyring==0.9.1", "keystonemiddleware==1.5.0", "koji==1.15.0",
                         "logilab-common==0.60.0", "lxml==2.2.6", "Mako==0.3.3", "MapProxy==1.10.3", "Mercurial==3.0",
                         "mistune==0.7.2", "mlalchemy==0.1.2", "mod_wsgi==4.2.4", "murano==1.0.2", "murano-dashboard==1.0.2",
-                        "notebook==5.2.1", "nova-lxd==13.1.0", "numpy==1.6.0", "oauthenticator==0.7.1", "openpyxl==2.4.1",
+                        "notebook==5.2.1", "nova-lxd==13.1.0", "numpy==1.6.0", "openpyxl==2.4.1",
                         "paramiko==2.4.0", "Paste==1.7.5", "Pillow==2.8.0", "pip==1.2", "Plone==4.3.15",
                         "pycrypto==2.1.0", "pyfribidi==0.10.0", "pyftpdlib==0.2.0", "Pygments==2.0", "PyJWT==1.5.0",
                         "pykerberos==1.1.4", "pysaml2==1.0.2", "python-bugzilla==0.8.0", "python-cjson==1.0.5",
