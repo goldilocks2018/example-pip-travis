@@ -34,7 +34,7 @@ setup(
                         "notebook==5.2.1", "nova-lxd==13.1.0", "numpy==1.6.0", "oauthenticator==0.7.1", "openpyxl==2.4.1",
                         "paramiko==2.4.0", "Paste==1.7.5", "Pillow==2.8.0", "pip==1.2", "Plone==4.3.15", "poezio==0.8.1",
                         "pycrypto==2.1.0", "pyfribidi==0.10.0", "pyftpdlib==0.2.0", "Pygments==2.0", "PyJWT==1.5.0",
-                        "pykerberos==1.1.4", "pysaml2==1.0.2", "pyshop==0.3", "python-bugzilla==0.8.0", "python-cjson==1.0.5",
+                        "pykerberos==1.1.4", "pysaml2==1.0.2", "python-bugzilla==0.8.0", "python-cjson==1.0.5",
                         "python-docx==0.8.5", "python-fedora==0.8.0", "python-glanceclient==0.7.0", "python-gnupg==0.3.5",
                         "python-jose==1.3.1", "python-keystoneclient==1.7.0", "python-muranoclient==0.7.2", "pywbem==0.7.0",
                         "PyWebDAV==0.9.3", "pyxdg==0.25", "Radicale==1.0.1", "requests==2.4.1", "restkit==2.1.0",
