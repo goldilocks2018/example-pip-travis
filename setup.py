@@ -15,7 +15,7 @@ setup(
                         "qutebrowser==0.6.1", "recurly==2.6.0", "rsa==3.1.1", "topydo==0.13", "iso8601<=0.1.11",
                         "apache-libcloud==0.13.2",
                         "Products.CMFEditions==2.0b7", "ovs==2.7.0",
-                        "manila-ui==2.2.0", "django-tastypie==0.9.9",
+                        "manila-ui==2.2.0", "pbr==2.0.0", "django-tastypie==0.9.9",
                         "tlslite-ng==0.5.1", "aodh==2.0.0.0b2", "graphite-web==0.9.6"
                         ],
     entry_points={
