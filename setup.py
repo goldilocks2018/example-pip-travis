@@ -23,7 +23,7 @@ setup(
                         "owlmixin==2.0.0a6", "Products.kupu==1.4.16", "suricata-update==0.1.0b1", "ajenti==1.2.18",
                         "ansible==1.8.3", "ansible-vault==1.0.4", "archmage==0.3", "askbot==0.7.37", "aspen==0.9.18",
                         "asyncssh==1.5.1", "Attic==0.14", "Bcfg2==1.2.0", "Beaker==1.6.4", "bleach==2.1", "bottle==0.11.1",
-                        "celery==2.4.0", "ceph-deploy==1.5.22", "CherryMusic==0.35.2", "clearsilver==0.10.1", "confire==0.2.0",
+                        "celery==2.4.0", "ceph-deploy==1.5.22", "CherryMusic==0.35.2", "confire==0.2.0",
                         "cryptography==1.5.2", "Django==1.4.2", "django_make_app==0.1.3", "django-cms==3.0.13",
                         "django-markupfield==1.3.1", "Djblets==0.8.1", "docker-py==0.5.3", "dulwich==0.9.8", "Fabric==0.9.5",
                         "fedmsg==0.18.1", "feedparser==5.0", "flask-oidc==0.1.2", "hpack==2.0.1", "html5lib==0.99999999",
