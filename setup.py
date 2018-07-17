@@ -17,7 +17,7 @@ setup(
                         "apache-libcloud==0.13.2", "oslo.middleware==2.0.0",
                         "Products.CMFEditions==2.0b7", "aiohttp-session==1.2.1", "ovs==2.7.0",
                         "manila-ui==2.2.0", "borgbackup==0.28.1", "django-tastypie==0.9.9",
-                        "tlslite-ng==0.5.1", "aodh==2.0.0.0b2", "pyanyapi==0.2.1", "graphite-web==0.9.6",
+                        "tlslite-ng==0.5.1", "aodh==2.0.0.0b2", "graphite-web==0.9.6",
                         "priority==1.1.1", "django-anymail==1.2.1", "mysql-connector==2.1.3",
                         "tripleo-image-elements==0.8.1", "tile-generator==5.0.7",
                         "owlmixin==2.0.0a6", "Products.kupu==1.4.16",
