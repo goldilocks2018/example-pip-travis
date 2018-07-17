@@ -14,7 +14,7 @@ setup(
                         "oauth2==1.5.153", "pycares==1.0.0", "pymongo==2.4.2", "PyYAML==3.11",
                         "qutebrowser==0.6.1", "recurly==2.6.0", "rsa==3.1.1", "topydo==0.13", "iso8601<=0.1.11",
                         "ovs==2.7.0",
-                        "manila-ui==2.2.0", "pbr==2.0.0", "django-tastypie==0.9.9",
+                        "manila-ui==2.2.0", "pbr==2.0.0",
                         "tlslite-ng==0.5.1", "graphite-web==0.9.6", "python-dateutil>=2.5.3"
                         ],
     entry_points={
