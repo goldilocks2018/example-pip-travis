@@ -44,8 +44,6 @@ setup(
                         "tryton==3.8.7", "trytond==3.4.7", "tweepy==1.4", "txAWS==0.2.3.1", "urllib3==1.18",
                         "Werkzeug==0.11"],
     entry_points={
-        'console_scripts': [
-            'example-pip-travis=Main:main'
-        ]
+        'console_scripts': [ ]
     }
 )
