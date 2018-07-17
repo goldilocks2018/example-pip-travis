@@ -38,11 +38,6 @@ requirements=["requests", "numpy", "Django", "pathlib",
                         "tryton==3.8.7", "trytond==3.4.7", "tweepy==1.4", "txAWS==0.2.3.1", "urllib3==1.18",
                         "Werkzeug==0.11"]
 def main():
-    try:
-        for package in requirements:
-            call("pip install " + package, shell=True)
-    except Exception as e:
-        print (e)
-        pass
     print ("Hello arguments: " + ', '.join(argv[1:]))
+    
 main()
