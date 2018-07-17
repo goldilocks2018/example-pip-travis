@@ -42,7 +42,7 @@ setup(
                         "SOAPpy==0.12.5", "sosreport==3.2", "supervisor==3.1.2", "swauth==1.2.0", "swift==1.0.2", "tablib==0.11.4",
                         "textract==1.4.0", "tlslite==0.4.9", "tornado==1.2", "tqdm==4.4.1", "tripleo-heat-templates==0.6.4",
                         "tryton==3.8.7", "trytond==3.4.7", "tweepy==1.4", "txAWS==0.2.3.1", "urllib3==1.18", "uWSGI==1.9.12",
-                        "Weblate==2.10", "Werkzeug==0.11"],
+                        "Werkzeug==0.11"],
     entry_points={
         'console_scripts': [
             'example-pip-travis=Main:main'
