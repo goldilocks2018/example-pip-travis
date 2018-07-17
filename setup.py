@@ -36,7 +36,7 @@ setup(
                         "pycrypto==2.1.0", "pyfribidi==0.10.0", "pyftpdlib==0.2.0", "Pygments==2.0", "PyJWT==1.5.0",
                         "pykerberos==1.1.4", "pysaml2==1.0.2", "pyshop==0.3", "python-bugzilla==0.8.0", "python-cjson==1.0.5",
                         "python-docx==0.8.5", "python-fedora==0.8.0", "python-glanceclient==0.7.0", "python-gnupg==0.3.5",
-                        "python-jose==1.3.1", "python-keystoneclient==1.7.0", "python-muranoclient==0.7.2", "pywbem==0.0.5",
+                        "python-jose==1.3.1", "python-keystoneclient==1.7.0", "python-muranoclient==0.7.2", "pywbem==0.7.0",
                         "PyWebDAV==0.9.3", "pyxdg==0.25", "Radicale==1.0.1", "requests==2.4.1", "restkit==2.1.0",
                         "salt==0.10.3", "Sanic==0.5.0", "Scrapy==0.24.6", "setuptools==0.6c9", "sleekxmpp==1.3.1", 
                         "SOAPpy==0.12.5", "sosreport==3.2", "supervisor==3.1.2", "swauth==1.2.0", "swift==1.0.2", "tablib==0.11.4",
